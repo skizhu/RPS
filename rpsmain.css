@@ -60,8 +60,8 @@ body{
 }
 
 #paperText{
-	margin-left:2px;
-	margin-right:2px;
+	margin-left:4px;
+	margin-right:4px;
 	text-align: center;
     background-color: #44475a;
     border: 2px solid #ff5555;
